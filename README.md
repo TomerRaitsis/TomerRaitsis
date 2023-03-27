@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd year software engineering student with a background in <br>C/C++, Python, Java and more.<br>I am motivated and detail-oriented individual,<br>always looking to expand my knowledge and collaborate <br>with others to create innovative solutions.<br>
+I am a 3rd year software engineering student with a background in C/C++, Python, Java and more.<br>I am motivated and detail-oriented individual,always looking to expand my knowledge and collaborate with others to create innovative solutions.<br>
 
 
 ## 🌐 Socials:
