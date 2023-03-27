@@ -10,7 +10,7 @@ I am a 3rd year software engineering student with a background in C/C++, Python,
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=TomerRaitsis&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="TomerRaitsis's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TomerRaitsis&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="TomerRaitsis's GitHub stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomerRaitsis&theme=dark&hide_border=false" alt="TomerRaitsis's GitHub streak stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomerRaitsis&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="TomerRaitsis's GitHub top languages">
 </div>
