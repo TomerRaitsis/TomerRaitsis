@@ -20,6 +20,10 @@ I am a 3rd year software engineering student with a background in <br>C/C++, Pyt
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TomerRaitsis&icon=2&color=0)](https://visitcount.itsvg.in)
