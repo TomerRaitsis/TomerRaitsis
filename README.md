@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am a third-year software engineering student with a background in various programming languages such as C/C++, Python, Java, and more. I have been continuously working on improving my skills and knowledge since I started studying.<br><br>
+I am a third-year software engineering student with a background in various programming languages such as C/C++, Python, Java, and more. I have been continuously working on improving my skills and knowledge since I started studying.<br>
 
-I am a highly motivated and detail-oriented individual, always striving to deliver the best results in everything I do. I enjoy working on challenging projects and collaborating with others to create innovative solutions. My problem-solving skills, combined with my creativity, allow me to approach tasks from different angles, leading to unique and effective solutions.<br><br>
+I am a highly motivated and detail-oriented individual, always striving to deliver the best results in everything I do. I enjoy working on challenging projects and collaborating with others to create innovative solutions. My problem-solving skills, combined with my creativity, allow me to approach tasks from different angles, leading to unique and effective solutions.<br>
 
 Apart from programming, I also have a keen interest in technology and AI. I have participated in several online courses and hackathons, honing my skills and learning new technologies. I believe that continuous learning is key to success in the fast-paced tech industry, and I am always eager to learn something new.<br>
 
