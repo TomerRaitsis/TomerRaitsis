@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 4th year software engineering student with a background in various programming languages such as C/C++, Python, Java, and more. I have been continuously working on improving my skills and knowledge since I started studying.<br>
+I am a 4th year software engineering student with a background in various programming languages such as C/C++, Python, Java, Node.js more. I have been continuously working on improving my skills and knowledge since I started studying.<br>
 
 I am a highly motivated and detail-oriented individual, always striving to deliver the best results in everything I do. I enjoy working on challenging projects and collaborating with others to create innovative solutions. My problem-solving skills, combined with my creativity, allow me to approach tasks from different angles, leading to unique and effective solutions.<br>
 
