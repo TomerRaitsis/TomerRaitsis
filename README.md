@@ -8,7 +8,7 @@ Apart from programming, I also have a keen interest in technology and AI. I have
 ## 🌐 Certifications:
   ![aws-knowledge-cloud-essentials](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/c9c48b52-e960-4605-8443-b374f99fa516)
   ![aws-cloud-quest-cloud-practitioner](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/46a640a6-104b-48a2-986f-8e859a94666d)
-udemy-certificate.s3.amazonaws.com/image/UC-2e60e820-1057-488b-affd-4ba9e8acd914.jpg
+  ![image](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/ff5c330f-ddbb-4d48-8383-19c6455cfbef)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomer-raitsis/) 
