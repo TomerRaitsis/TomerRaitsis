@@ -7,6 +7,8 @@ Apart from programming, I also have a keen interest in technology and AI. I have
 
 https://www.credly.com/badges/82a0c50f-8e54-48db-944f-cf604f1bd4d1/public_url
 
+![aws-knowledge-cloud-essentials](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/c9c48b52-e960-4605-8443-b374f99fa516)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomer-raitsis/) 
