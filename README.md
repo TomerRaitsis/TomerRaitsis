@@ -5,10 +5,12 @@ I am a highly motivated and detail-oriented individual, always striving to deliv
 
 Apart from programming, I also have a keen interest in technology and AI. I have participated in several online courses and hackathons, honing my skills and learning new technologies. I believe that continuous learning is key to success in the fast-paced tech industry, and I am always eager to learn something new.<br>
 
-https://www.credly.com/badges/82a0c50f-8e54-48db-944f-cf604f1bd4d1/public_url
-
-![aws-knowledge-cloud-essentials](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/c9c48b52-e960-4605-8443-b374f99fa516)
-
+## 🌐 Certifications:
+<div align="center">
+  <h2>📊 GitHub Stats:</h2>
+  ![aws-knowledge-cloud-essentials](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/c9c48b52-e960-4605-8443-b374f99fa516)<br/>
+  ![aws-cloud-quest-cloud-practitioner](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/46a640a6-104b-48a2-986f-8e859a94666d)<br/>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomer-raitsis/) 
