@@ -5,12 +5,12 @@ I am a highly motivated and detail-oriented individual, always striving to deliv
 
 Apart from programming, I also have a keen interest in technology and AI. I have participated in several online courses and hackathons, honing my skills and learning new technologies. I believe that continuous learning is key to success in the fast-paced tech industry, and I am always eager to learn something new.<br>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomer-raitsis/) 
+
 ## 👨🏽‍🎓 Certifications:
   ![aws-knowledge-cloud-essentials](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/c9c48b52-e960-4605-8443-b374f99fa516)
   ![aws-cloud-quest-cloud-practitioner](https://github.com/TomerRaitsis/TomerRaitsis/assets/93087187/46a640a6-104b-48a2-986f-8e859a94666d)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomer-raitsis/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
