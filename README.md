@@ -5,6 +5,8 @@ I am a highly motivated and detail-oriented individual, always striving to deliv
 
 Apart from programming, I also have a keen interest in technology and AI. I have participated in several online courses and hackathons, honing my skills and learning new technologies. I believe that continuous learning is key to success in the fast-paced tech industry, and I am always eager to learn something new.<br>
 
+![Certificate]([https://example.com/path/to/your/badge.png](https://www.credly.com/badges/82a0c50f-8e54-48db-944f-cf604f1bd4d1/public_url))
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomer-raitsis/) 
 
